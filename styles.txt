@@ -1,0 +1,22 @@
+font-family "fonts"
+text-transform "uppercase/lowercase"
+font-size "#px/percent"
+color "hex/name"
+background-color "hex/name"
+padding "#px"
+border "#px" "solid" "hex/color"
+opacity "dec-number"
+text-align "left/justify/center/right"
+height "#px/percent"
+width "#px/percent"
+margin-top "#px"
+margin-bottom "#px"
+margin-left "#px"
+margin-right "#px"
+
+Example:
+    text-align: left;
+Another example:
+    border: 5px solid blue
+Yet another example:
+    font-family: Arial, Helvetica, sans-serif;
